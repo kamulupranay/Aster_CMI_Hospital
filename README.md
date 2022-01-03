@@ -2,4 +2,4 @@
 # First clone the project
 # cd projectname
 # npm install
-# see the output in localhost/projectname/index.html
+# see the output in localhost/projectname/src/index.html
